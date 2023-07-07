@@ -7,6 +7,9 @@ feature_image: "/assets/headers/herzstein.jpg"
 excerpt: "Gemeinsam Kochen und Grillen"
 ---
 
+Da wir uns nicht sicher sind, wie viel Geschirr und Besteck vor Ort verfügbar ist, bringt sehr gerne das ein oder andere 
+Teller-Besteck-Set mit, wenn es keine Umstände macht. 
+
 ## Freitag
 
 Am Freitag wird es abends nach dem Aufbau eine warme Mahlzeit geben.
