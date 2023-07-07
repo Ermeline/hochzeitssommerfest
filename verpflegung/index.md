@@ -35,11 +35,12 @@ beisteuern möchte, aber schon am Freitag vor Ort ist, kann Zutaten im Kühlschr
 zubereiten. Schnippelhilfen sind genug auf dem Gelände.
 angemeldet sind bereits:
 
-- orientalischer Kartoffelasalat (vegan)
+- orientalischer Kartoffelsalat (vegan)
 - Erdbeerrollen (vegetarisch)
 - Stockbrot und Marshmallows
 - Käsespieße 
-- mysteriöser Nachtisch 
+- mysteriöser Nachtisch
+- Bananenbrot
 - Liste wird noch fortgesetzt
 
 ## Sonntag
